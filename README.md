@@ -1,6 +1,5 @@
 ### Hi there 👋
 # MuHyeonSon
-## Tech Stack
 <div align=center><h1>Tech Stacks</h1></div>
 <div align=center>
   <p>Techs that I've used at least once</p>
