@@ -23,8 +23,8 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/git-#276DC3??style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/R-#276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
   <br>
 </div>
