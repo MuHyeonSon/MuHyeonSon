@@ -32,11 +32,12 @@
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
   
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
   <br>
 </div>
-<!-- C, Perl, SQLite, PHP, MySql, Pytorch, Tesorflow, Keras, MONAI, UBUNTU, CSS3, R, -->
+<!-- C, Perl, SQLite, PHP, MySql, Pytorch, Tesorflow, Keras, MONAI, UBUNTU, CSS3, R,
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp  
+-->
 <!--
 **MuHyeonSon/MuHyeonSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
