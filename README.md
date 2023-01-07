@@ -41,15 +41,15 @@
 |:----------------:|:---------------:|:--------------------------------:|
 |2020 Spring |선형대수|Linear Algebra|
 |2020 Spring |바이오확률통계|Biomedical Probability & Statistics|
-|2021 Fall |컴퓨터프로그래밍및실습(C, Python Programming)|Computer Programming & Experiments|
-|2021 Fall |의학유전학(의생명데이터프로그래밍)|Medical Genetics(Biomedical Data Programming)|
+|2021   Fall |컴퓨터프로그래밍및실습(C, Python Programming)|Computer Programming & Experiments|
+|2021   Fall |의학유전학(의생명데이터프로그래밍)|Medical Genetics(Biomedical Data Programming)|
 |2021 Spring |의료영상학|Medical Imaging|
 |2021 Spring |생명정보학을위한데이터마이닝|Data mining in Bioinformatics|
 |2021 Spring |바이오메디컬인공지능|Biomedical Artificial Intelligence|
-|2021 Fall |인공지능을이용한의료영상처리및실습|Medical Image Processing & Laboratory using Artificial Intelligence|
-|2021 Fall |의생명정보학|Bioinformatics|
-|2021 Fall |정보시각화|Information Visualization|
-|2021 Fall |자료구조|Data Structure|
+|2021   Fall |인공지능을이용한의료영상처리및실습|Medical Image Processing & Laboratory using Artificial Intelligence|
+|2021   Fall |의생명정보학|Bioinformatics|
+|2021   Fall |정보시각화|Information Visualization|
+|2021   Fall |자료구조|Data Structure|
 |2022 Spring |BME캡스톤디자인실습|Lab for BME Capstone Design|
 |2022 Spring |Algorithm|Algorithm|
 |2022 Spring |웹프로그래밍|Web Programming|
