@@ -38,7 +38,7 @@
 
 ## 🎓 Undergraduate Courseworks
 |Semester|Lecture Name|Lecture Name in English|
-|:------:|:---:|:---:|
+|:----------------:|:---------------:|:--------------------------------:|
 |2020 Spring |선형대수|Linear Algebra|
 |2020 Spring |바이오확률통계|Biomedical Probability & Statistics|
 |2021 Fall |컴퓨터프로그래밍및실습(C, Python Programming)|Computer Programming & Experiments|
