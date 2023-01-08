@@ -40,7 +40,7 @@
 ## Project & Experience
 |Name|Time|Role|Description|
 |:------------:|:------------:|:--------------------------------:|:--------------------------------:|
-|Develope the Patient Management Program|2022.08|Develope the Program.|Develope the program during the internship course of OSSTEM SW Product Research Center in 2022.|
+|Develope the Patient Management Program|2022.08|Develope the Program.|Developed the program during the internship course of OSSTEM SW Product Research Center in 2022.|
 |Sleep stage classification from Single Lead ECG Signal with Deep Learning|2022.03 ~ 2022.06|Coding Software, Data preprocessing, production of presentation materials.|Classify the sleep stage into five categories (Wake, NREM1, NREM2, NREM3, REM) according to the American Academy of Sleep Medicine (AASM) criteria using only ECG signals from the biological signals (ECG, EMG, EEG, EEG) data of 151 subjects.|
 |Prediction of metastasis to pathological imaging data in gastric cancer patients|2021.07 ~ 2022.02|Study and Practice cacner region Segmentation to pathological image, Check and Record whether the model outputs regions locally or globally for a single Whole Slide Image.|Prediction of lymph node metastasis using gastric cancer tissue samples from gastric cancer patients.|
 |Development of an algorithm that can automatically tumor segmentation from post-contrast T1-weighted MR image.|2021.11 ~ 2022.12|Perform the label data preprocessing and training the model. Implementing code for detailed requirements related to representing learning curves and learning processes.|The Project that carried out in Medical image processing and practice using artificial intelligence in 2021 fall.|
