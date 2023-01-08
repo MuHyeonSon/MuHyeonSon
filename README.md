@@ -1,7 +1,7 @@
-## Hi there 😊
-<div align=center><h1>Tech Stacks</h1></div>
+## Hi there, I'm MuHyeon 😊
+<div><h2>Tech Stacks</h2></div>
+<p>Techs that I've used at least once</p>
 <div align=center>
-  <p>Techs that I've used at least once</p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
@@ -40,13 +40,13 @@
 ## Project & Experience
 |Name|Time|Role|Description|
 |:------------:|:------------:|:--------------------------------:|:--------------------------------:|
-|Develope the Patient Management Program|2022.08|Develope the Program.|The project conducted during the internship course of OSSTEM SW Product Research Center in 2022.|
+|Develope the Patient Management Program|2022.08|Develope the Program.|Develope the program during the internship course of OSSTEM SW Product Research Center in 2022.|
 |Sleep stage classification from Single Lead ECG Signal with Deep Learning|2022.03 ~ 2022.06|Coding Software, Data preprocessing, production of presentation materials.|Classify the sleep stage into five categories (Wake, NREM1, NREM2, NREM3, REM) according to the American Academy of Sleep Medicine (AASM) criteria using only ECG signals from the biological signals (ECG, EMG, EEG, EEG) data of 151 subjects.|
 |Prediction of metastasis to pathological imaging data in gastric cancer patients|2021.07 ~ 2022.02|Study and Practice cacner region Segmentation to pathological image, Check and Record whether the model outputs regions locally or globally for a single Whole Slide Image.|Prediction of lymph node metastasis using gastric cancer tissue samples from gastric cancer patients.|
-|Development of an algorithm that can automatically tumor segmentation from post-contrast T1-weighted MR image.|2021.11 ~ 2022.12|Perform the label data preprocessing and training the model. Implementing code for detailed requirements related to representing learning curves and learning processes.|The Project that preform in Medical image processing and practice using artificial intelligence in 2021 fall.|
-|The Analysis and Visualization Project of Mutational Patterns of Genes Causing Lung Cancer.|2022.12|Visualize by analyzing the distribution of cases of reference and alternate by importing mutation information data.|The Project that preform in Bioinformatics in 2021 fall semeseter.|
-|HUFS AIMLAB Summer Vacation Study|2021.07 ~ 2022.08|Study on the application of artificial intelligence using computers and the use of medical data.|Python Programming, Development environment setting, practice with fastai, Medical image data format, MONAI, Image Clasiification, Image Segmentation. |
-|Development of clothing classification and color classification and price information output algorithms for blind people's clothing lives|2021.05 ~ 2022.06|Implementation of price information output function from price tag, Work of linking clothes color and clothing type classification function into one.|The Project that preform in Biomedical Artificial Intelligence in 2021 Spring.|
+|Development of an algorithm that can automatically tumor segmentation from post-contrast T1-weighted MR image.|2021.11 ~ 2022.12|Perform the label data preprocessing and training the model. Implementing code for detailed requirements related to representing learning curves and learning processes.|The Project that carried out in Medical image processing and practice using artificial intelligence in 2021 fall.|
+|The Analysis and Visualization Project of Mutational Patterns of Genes Causing Lung Cancer.|2022.12|Visualize by analyzing the distribution of cases of reference and alternate by importing mutation information data.|The Project that carried out in Bioinformatics in 2021 fall semeseter.|
+|HUFS AIMLAB Summer Vacation Study|2021.07 ~ 2022.08|Study on the application of artificial intelligence using computers and the use of medical data.|Python Programming, Setting development environment, fastai, Medical image data format, MONAI, Image Clasiification, Image Segmentation. |
+|Development of clothing classification and color classification and price information output algorithms for blind people's clothing lives|2021.05 ~ 2022.06|Implementation of price information output function from price tag, Work of linking clothes color and clothing type classification function into one.|The Project that carried out in Biomedical Artificial Intelligence in 2021 Spring.|
 
 
 ## Undergraduate Courseworks
