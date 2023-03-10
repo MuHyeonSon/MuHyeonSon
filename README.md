@@ -94,7 +94,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <!--
 ## Undergraduate Courseworks
 |Semester|Lecture Name|Lecture Name in English|
