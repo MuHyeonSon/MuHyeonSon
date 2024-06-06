@@ -1,5 +1,5 @@
-## Hi there, I'm MuHyeon 😊
-<div><h2>Tech Stacks</h2></div>
+## Hi, I'm MuHyeon 😊
+<div><h2>Tech Stack</h2></div>
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
@@ -17,6 +17,7 @@
 ## Project & Experience
 |Name|Time|Role|Description|
 |:------------:|:------------:|:--------------------------------:|:--------------------------------:|
+|NAVER Connect Foundation <br/> boostcamp AI Tech 5th|2023.03 ~ 2023.08|Develope Natural Language Processing AI, Music Generative Model API Server. Data Processing and Music Generation Setting Category DB construction.|Performing 5 projects, Learning and Practicing NLP, AI mathematics, Pytorch, Machine Learning & Deep Learning, AI Product Serving and Data Visualization.|
 |Develope the Patient Management Program|2022.08|Develope the Program.|Developed the program during the internship course of OSSTEM SW Product Research Center in 2022.|
 |Sleep stage classification from Single Lead ECG Signal with Deep Learning|2022.03 ~ 2022.06|Coding Software, Data preprocessing, production of presentation materials.|Classify the sleep stage into five categories (Wake, NREM1, NREM2, NREM3, REM) according to the American Academy of Sleep Medicine (AASM) criteria using only ECG signals from the biological signals (ECG, EMG, EEG, EOG) data of 151 subjects.|
 |Prediction of metastasis to pathological imaging data in gastric cancer patients|2021.07 ~ 2022.02|Study and Practice cacner region Segmentation to pathological image, Check and Record whether the model outputs regions locally or globally for a single Whole Slide Image.|Prediction of lymph node metastasis using gastric cancer tissue samples from gastric cancer patients.|
